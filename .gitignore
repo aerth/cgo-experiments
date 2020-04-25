@@ -1,1 +1,5 @@
 /bin
+/libs/libfoo/foo.o
+/libs/libfoo/libfoo.a
+/libs/test_library_program
+
