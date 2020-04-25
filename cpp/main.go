@@ -1,7 +1,7 @@
 package main
 
 /*
-#cgo LDFLAGS: libfoo.a
+#cgo LDFLAGS: ./libcppfoo.a
 void say(char* str);
 void sayplusplus(char* str);
 int get();
