@@ -2,7 +2,7 @@ package main
 
 /*
 #cgo LDFLAGS: -Llibfoo -lfoo
-#cgo CFLAGS: -Ilibfoo -Wall -pedantic
+#cgo CFLAGS: -Ilibfoo -Werror -pedantic
 
 #include "libfoo.h"
 */
